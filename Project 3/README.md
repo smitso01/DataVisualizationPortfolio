@@ -1,6 +1,7 @@
 # The Legacy of Coach Cantele
 
-![CoachGraphic](https://github.com/user-attachments/assets/0e6800ac-723b-439a-a9d1-5b0faed52c33)
+![proj3](https://github.com/user-attachments/assets/474fc439-5254-40b2-945a-db0dfd1b4e5f)
+
 
 ```![image alt text](image_file.png)```
 
