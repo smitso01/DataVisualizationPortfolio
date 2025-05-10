@@ -4,7 +4,7 @@ Welcome to my data visualization portfolio! Here, you'll find a collection of pr
 ## About Me
 Hi there! I'm a graduating senior from Gettysburg College, earning a Bachelor of Arts with a double major in Business, Organizations, and Management and Spanish, along with a minor in Data Science. I'm also a proud member of the women's lacrosse team and have been playing the sport for over a decade.
 
-As both an athlete and student, I've developed strong leadership, teamwork, and problem-solving skills that I carry into every project I take on. I'm passionate about the intersection of business, marketing, social media, and sports—especially how data and storytelling can be used to drive strategy and engagement. I enjoy working with numbers, collaborating with others, and tackling real-world problems through creative and analytical thinking.
+As both an athlete and student, I've developed strong leadership, teamwork, and problem-solving skills that I carry into every project I take on. I'm passionate about the intersection of business, marketing, social media, and sports - especially how data and storytelling can be used to drive strategy and engagement. I enjoy working with numbers, collaborating with others, and tackling real-world problems through creative and analytical thinking.
 
 Looking ahead, I hope to build a career in business or marketing, and I’d love to stay involved in lacrosse through coaching. 
 
