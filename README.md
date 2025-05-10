@@ -10,7 +10,7 @@ Looking ahead, I hope to build a career in business or marketing, and I’d love
 
 <!--Include links to documents or sites that may be useful to your target audience: website, LinkedIn, your cv/resume, github, a community you contribute to, etc -->
 
-To learn more about me, you can visit my [LinkedIn]((https://www.linkedin.com/in/sophie-fr-smith/)), my [github](https://github.com/smitso01), or read my [Resume](Images/Resume.pdf).
+To learn more about me, you can visit my [LinkedIn](https://www.linkedin.com/in/sophie-fr-smith/), my [github](https://github.com/smitso01), or read my [Resume](Images/Resume.pdf).
 
 
 ---
