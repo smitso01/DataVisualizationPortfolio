@@ -1,5 +1,7 @@
 # Social Media Marketing
-In this document:
+
+![SocialMarketers](https://github.com/user-attachments/assets/0f26f514-c54e-4019-ab0f-c4d7747343fe)
+
 ```![image alt text](image_file.png)```
 
 ## Project Description
